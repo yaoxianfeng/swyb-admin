@@ -1,3 +1,4 @@
+//基于axios封装的请求模块
 import axios from 'axios'
 import Vue from 'vue'
 import {
